@@ -19,5 +19,5 @@ Projeto desenvolvido no quarto curso da formação Java da Alura
 Para rodar o projeto é necessário apresentar o código gerado ao se inscrever na API da Omdb, portanto esta chave está omitida.
 Portanto na classe `PrincipalComBuscas.java` deverá inserir a sua Apikey na linha 35:
 ```java
-String endereco = "https://www.omdbapi.com/?t=" + busca + "&apikey<insira aqui";
+String endereco = "https://www.omdbapi.com/?t=" + busca + "&apikey=insira aqui";
 ```
